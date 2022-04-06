@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Pradeep4794/assign1.git/static/css/main.56e6221f.css",
+    "main.js": "/Pradeep4794/assign1.git/static/js/main.80ea84f3.js",
+    "static/media/gt.jpg": "/Pradeep4794/assign1.git/static/media/gt.3beb4c41145e4d7cdcc7.jpg",
+    "static/media/suit.jpg": "/Pradeep4794/assign1.git/static/media/suit.e6854d1f059630ec92e2.jpg",
+    "static/media/Blog.jpg": "/Pradeep4794/assign1.git/static/media/Blog.c86943896add97c1d370.jpg",
+    "static/media/white.jpeg": "/Pradeep4794/assign1.git/static/media/white.749479fefd8a35c03c40.jpeg",
+    "index.html": "/Pradeep4794/assign1.git/index.html",
+    "main.56e6221f.css.map": "/Pradeep4794/assign1.git/static/css/main.56e6221f.css.map",
+    "main.80ea84f3.js.map": "/Pradeep4794/assign1.git/static/js/main.80ea84f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e6221f.css",
+    "static/js/main.80ea84f3.js"
+  ]
+}
